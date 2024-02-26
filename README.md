@@ -1,4 +1,4 @@
-# Database_Systems_Course_Resources
+# Learning Journey: CMU Intro to Database Systems (Fall 2022)
 
 A journey through CMU's Intro to Database Systems (15-445/645 - Fall 2022). This repo documents my learning process, projects, and insights as I delve into database design, SQL, transaction management, and more. Join me in exploring the fascinating world of databases!
 
@@ -26,4 +26,4 @@ My primary goals for this journey are to:
 
 I'm open to discussions, suggestions, and collaborations! If you have any advice, resources, or insights you'd like to share, please feel free to open an issue or submit a pull request. Let's learn and grow together!
 
-Thank you for joining me on this educational adventure. Let's dive deep into the world of databases and emerge with newfound knowledge and skills!
+**Thank you for joining me on this educational adventure. Let's dive deep into the world of databases and emerge with newfound knowledge and skills!**
