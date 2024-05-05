@@ -1,29 +1,14 @@
-# Learning Journey: CMU Intro to Database Systems (Fall 2022)
+# 重庆大学数据库课程
 
-A journey through CMU's Intro to Database Systems (15-445/645 - Fall 2022). This repo documents my learning process, projects, and insights as I delve into database design, SQL, transaction management, and more. Join me in exploring the fascinating world of databases!
+本仓库收录了本人在学习**数据库系统**课程时所完成的**笔记**、**实验**等内容。本着开源精神特地将所有原创资料整理至此，希望与所有学习这门课程的朋友一同进步。因个人能力有限难免有诸多瑕疵甚至错误，若在使用过程中发现，麻烦在**Issues**中提出！
 
-## 🚀 About This Journey
+## 资料分布说明
 
-This course is a comprehensive dive into the fundamentals and advanced topics of database systems. From the intricacies of SQL to the mechanics of database storage, and the challenges of distributed databases, we'll explore a wide array of subjects that are crucial for anyone looking to master the art and science of storing, retrieving, and managing data.
+### 课程笔记
 
-## 📚 What You'll Find Here
+- **CMU Class Notes**：本人选择网课[CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2023/schedule.html)作为辅助学习，文件夹内整理了听课时所做的笔记内容。
+  - 课程推荐：作为 CMU 数据库的入门课，这门课由数据库领域的大牛 **Andy Pavlo** 讲授（“这个世界上我只在乎两件事，一是我的老婆，二就是数据库”）。具体来说，这是一门质量极高，资源极齐全的 Database 入门课，这门课的 Faculty 和背后的 CMU Database Group 将课程对应的基础设施 (Autograder, Discord) 和课程资料 (Lectures, Notes, Homework) 完全开源，让每一个愿意学习数据库的同学都可以享受到几乎等同于 CMU 本校学生的课程体验。
 
-- **Class Notes**: Reflections and summaries of each week's lectures and readings, highlighting key concepts and personal insights.
-- **Projects and Assignments**: A showcase of my coursework, including coding projects, database designs, and written assignments.
-- **Learning Resources**: A curated list of additional resources that I've found helpful during my studies, including books, articles, and online tutorials.
-- **Challenges and Solutions**: An honest account of the challenges I've faced during the course and the strategies I've employed to overcome them.
+### 课程实验
 
-## 🌟 Goals
-
-My primary goals for this journey are to:
-
-- Deepen my understanding of database systems, both in theory and in practice.
-- Develop practical skills in database design, SQL programming, and system optimization.
-- Connect with the broader community of database enthusiasts and professionals.
-- Reflect on my learning process to improve and solidify my knowledge.
-
-## 💡 Contributions
-
-I'm open to discussions, suggestions, and collaborations! If you have any advice, resources, or insights you'd like to share, please feel free to open an issue or submit a pull request. Let's learn and grow together!
-
-**Thank you for joining me on this educational adventure. Let's dive deep into the world of databases and emerge with newfound knowledge and skills!**
+- **CQU Lab**：2024年春季学期重庆大学数据实验。
