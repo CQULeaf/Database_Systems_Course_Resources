@@ -8,7 +8,3 @@
 
 - **CMU Class Notes**：本人选择网课[CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/fall2023/schedule.html)作为辅助学习，文件夹内整理了听课时所做的笔记内容。
   - 课程推荐：作为 CMU 数据库的入门课，这门课由数据库领域的大牛 **Andy Pavlo** 讲授（“这个世界上我只在乎两件事，一是我的老婆，二就是数据库”）。具体来说，这是一门质量极高，资源极齐全的 Database 入门课，这门课的 Faculty 和背后的 CMU Database Group 将课程对应的基础设施 (Autograder, Discord) 和课程资料 (Lectures, Notes, Homework) 完全开源，让每一个愿意学习数据库的同学都可以享受到几乎等同于 CMU 本校学生的课程体验。
-
-### 课程实验
-
-- **CQU Lab**：2024年春季学期重庆大学数据实验。
